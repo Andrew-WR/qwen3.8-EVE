@@ -27,7 +27,7 @@
 
 ---
 
-## Demo
+## Watch the Demo
 
 <p align="center">
   <a href="https://x.com/AndrewRufail/status/2110481300582772897?s=20">
