@@ -1,8 +1,6 @@
 <p align="center">
-  <img src="./assets/hylix-logo.png" alt="Hylix" width="120" />
+  <img src="./assets/hylix-eve-logo.png" alt="Hylix" width="900" />
 </p>
-
-<h1 align="center">EVE</h1>
 
 <p align="center">
   <strong>Make open-weight coding agents finish more real work.</strong>
