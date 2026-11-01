@@ -208,7 +208,11 @@ Next, we are working toward:
 Join the early-user community to influence what larger model will be part of EVE's offering.
 
 ---
+## Experiencing issues?
 
+If you experience any bugs, fill out this form to have the Hylix team fix it: **[Issue form →](https://forms.gle/VLmwuEeytv9VynAH7)**
+
+---
 ## What is Hylix?
 
 Hylix builds inference systems that make open-weight AI models more useful without retraining them.
